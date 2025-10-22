@@ -1,13 +1,13 @@
 # CloudWise: AI Agents for AWS Cost & Compliance Optimization
-## Your intelligent AWS co‑pilot for cost and security optimization.
+Your intelligent AWS co‑pilot for cost and security optimization.
 
 ## Inspiration
 Up to 40% of a DevOps engineer’s time is spent silencing or triaging false CloudWatch alarms, often leading to wasted effort, increased costs, and reduced focus on high-value tasks. CloudWise emerged to solve this recurring inefficiency through AI‑driven intelligence that automates monitoring, remediation, and compliance management in AWS environments.
 
 ## What It Does
 CloudWise continuously monitors your AWS environment for:
-Cost inefficiencies: Detects idle EC2 instances and shuts them down.
-Compliance risks: Scans S3 buckets for public exposure.
+### Cost inefficiencies: Detects idle EC2 instances and shuts them down.
+### Compliance risks: Scans S3 buckets for public exposure.
 Automation: Executes remediation actions via Lambda functions.
 Visualization: Displays savings, compliance status, and AI reasoning through a Streamlit dashboard in real time.
 At its core lies Amazon Bedrock’s Titan Model, which reasons about system events, ranks alerts, and recommends or executes actions — transforming reactive tasks into proactive optimization.
